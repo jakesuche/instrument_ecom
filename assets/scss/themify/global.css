@@ -1,0 +1,29 @@
+.toasted .primary.success, .toasted.toasted-primary.success {
+    background: #63b567;
+    border-radius: 10px;
+
+}
+
+.toasted .primary, .toasted.toasted-primary {
+    border-radius: 7px;
+ 
+}
+
+.dashboard_modal{
+    padding:0px!important
+}
+
+.dashboardtab ul.card-header {
+  
+    box-shadow: var(--theme-boxshadow);
+    border-radius: 7px!important;
+    border:none!important;
+
+}
+
+.dashboard-right .dashboard {
+   
+    border:none!important;
+    box-shadow: var(--theme-boxshadow);
+    border-radius: 7px!important;
+}

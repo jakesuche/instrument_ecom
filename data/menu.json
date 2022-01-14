@@ -1,0 +1,21 @@
+{
+    "data": [
+        
+          {
+            "title": "Shop", "type": "sub", "active": false, 
+            "children": [
+              { "path": "/collection/products", "title": "Musical Instrument", "type": "link" },
+              { "path": "/collection/products", "title": "Studio Equipment", "type": "link" },
+              { "path": "/collection/products", "title": "Dj Equipment", "type": "link" },
+              { "path": "/collection/products", "title": "Sidebar Popup", "type": "link" },
+              { "path": "/collection/products", "title": "Piano and Keyboard", "type": "link" },
+              { "path": "/collection/products", "title": "Speaker", "type": "link" },
+              { "path": "/collection/products", "title": "Mixers", "type": "link" },
+              { "path": "/collection/products", "title": "Drum Pads and Electric drums", "type": "link" },
+              { "path": "/collection/products", "title": "Micro Phone", "type": "link" }
+            ]
+          }
+         
+        ]
+  }
+  
