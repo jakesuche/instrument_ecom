@@ -1,4 +1,4 @@
-# /node_modules
+/node_modules
 # /pages/blogs
 # /pages/collection/all
 # /pages/collection/full-width.vue
