@@ -1,58 +1,58 @@
-/node_modules
-/pages/blogs
-/pages/collection/all
-/pages/collection/full-width.vue
-/pages/collection/list-view.vue
-/pages/collection/right-sidebar.vue
-/pages/collection/sidebar-popup.vue
-/pages/collection/six-grid.vue
-/pages/collection/three-grid.vue
-/pages/collection/product/details/no-sidebar.vue
-/pages/collection/product/details/right-sidebar.vue
-/pages/product/three-column
-/pages/product/thumbnail-image
-/pages/product/four-image.vue
-/pages/product/bundle-product.vue
+# /node_modules
+# /pages/blogs
+# /pages/collection/all
+# /pages/collection/full-width.vue
+# /pages/collection/list-view.vue
+# /pages/collection/right-sidebar.vue
+# /pages/collection/sidebar-popup.vue
+# /pages/collection/six-grid.vue
+# /pages/collection/three-grid.vue
+# /pages/collection/product/details/no-sidebar.vue
+# /pages/collection/product/details/right-sidebar.vue
+# /pages/product/three-column
+# /pages/product/thumbnail-image
+# /pages/product/four-image.vue
+# /pages/product/bundle-product.vue
 
-/pages/blog/
-/data/blog.json
-/data/config.json
-# /data/menu.json
-/data/products.json
-data.js
-
-
-# .gitignore
-
-/pages/page/lookbook.vue
-/pages/page/coming-soon.vue
-/pages/typography.vue
+# /pages/blog/
+# /data/blog.json
+# /data/config.json
+# # /data/menu.json
+# /data/products.json
+# data.js
 
 
+# # .gitignore
 
-/components/footer/footer2.vue
-/components/footer/footer3.vue
-/components/footer/footer4.vue
-/components/footer/footer5.vue
-/components/footer/footer6.vue
-/components/footer/footer7.vue
+# /pages/page/lookbook.vue
+# /pages/page/coming-soon.vue
+# /pages/typography.vue
 
 
-/pages/shop/bags
-/pages/shop/beauty
-/pages/shop/electronics-1
-/pages/shop/fashion-2
-/pages/shop/fashion-3
-/pages/shop/flower
-/pages/shop/furniture
-/pages/shop/gym
-/pages/shop/jewellery
-/pages/shop/kids
-/pages/shop/pets
-/pages/shop/shoes
-/pages/shop/tools
-/pages/shop/vegetables
-/pages/shop/watch
+
+# /components/footer/footer2.vue
+# /components/footer/footer3.vue
+# /components/footer/footer4.vue
+# /components/footer/footer5.vue
+# /components/footer/footer6.vue
+# /components/footer/footer7.vue
+
+
+# /pages/shop/bags
+# /pages/shop/beauty
+# /pages/shop/electronics-1
+# /pages/shop/fashion-2
+# /pages/shop/fashion-3
+# /pages/shop/flower
+# /pages/shop/furniture
+# /pages/shop/gym
+# /pages/shop/jewellery
+# /pages/shop/kids
+# /pages/shop/pets
+# /pages/shop/shoes
+# /pages/shop/tools
+# /pages/shop/vegetables
+# /pages/shop/watch
 
 
 
